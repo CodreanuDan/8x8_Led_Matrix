@@ -66,7 +66,7 @@ Sets all columns or rows at once.
 - Moving lines across the matrix  
 - Scrolling characters  
 
-![LED Matrix Demo](https://raw.githubusercontent.com/CodreanuDan/8x8_Led_Matrix/main/img/Recording%202025-09-18%20142359.gif)
+![LED Matrix Demo](img/LiveDemo.gif)
 
 | 74HC595 Wiring | 8x8 LED Matrix Wiring |
 |----------------|----------------------|
