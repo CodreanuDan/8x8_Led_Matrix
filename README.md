@@ -66,7 +66,7 @@ Sets all columns or rows at once.
 - Moving lines across the matrix  
 - Scrolling characters  
 
-![LED Matrix Demo](img/LiveDemo.gif)
+![LED Matrix Demo]([img/LiveDemo.gif](https://github.com/CodreanuDan/Serial_NRZ_ClkSync/edit/main/README.md))
 
 | 74HC595 Wiring | 8x8 LED Matrix Wiring |
 |----------------|----------------------|
